@@ -59,11 +59,12 @@ a {
 
   body {
     P#first{
-      color:Red:
-      <h1 style="font-size: 22" style="color: 000000">TEST</h1>
+      color: Red:
+      <h1 style="font-size: 22" style="color: FFFFFF">TEST</h1>
      }
     P#second{
-      Color: Blue;
+      Color: Blue:
+      <h1 style="font-size 25" style=color: 003450">Test2</h1>
     }
 
 
