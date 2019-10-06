@@ -57,13 +57,12 @@ a {
 #main {
   padding: 50px; }
 
-body {
-    P:#first{
-      color: Red:
+body 
+    P#first{
+      color: Red;
       <h1 style="font-size: 22" style="color: FFFFFF">TEST</h1>
-     }
+    }
     P#second{
       Color: Blue;
-    }
-    <h1 style}="font-size 25" style=color: 003450">Test2</h1>
-    }
+    <h1 style="font-size: 25" style=color: 003450">Test2</h1>
+  }
