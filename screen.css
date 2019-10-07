@@ -57,12 +57,9 @@ a {
 #main {
   padding: 50px; }
 
-body 
-    P#first{
-      color: Red;
-      h1: style="font-size: 22" style="color: black">TEST</h1>
+body{
+      background-color: Red;
+}
+  h1{
+    style="font-size: 22" style="color: black">TEST</h1>
     }
-    P#second{
-      Color: Blue;
-    border: style="font-size: 25" style="color: 003450">Test2</h1>
-  }
