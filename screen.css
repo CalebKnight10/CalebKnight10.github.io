@@ -60,9 +60,9 @@ a {
 body 
     P#first{
       color: Red;
-      <header> style="font-size: 22" style=color: "FFFFFF">TEST</h1>
+      h1: style="font-size: 22" style="color: black">TEST</h1>
     }
     P#second{
       Color: Blue;
-    <header> style="font-size: 25" style=color: "003450">Test2</h1>
+    border: style="font-size: 25" style="color: 003450">Test2</h1>
   }
