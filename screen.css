@@ -19,7 +19,7 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body {
-  line-height: 1; }
+  line-height: 5; }
 
 ol, ul {
   list-style: none; }
@@ -60,6 +60,11 @@ a {
 body{
       background-color: Red;
 }
-  h1{
-    style="font-size: 22" style="color: black">TEST</h1>
+h1{
+    font-size: 22;
+    color: blue;
     }
+p{
+  font-size: 22;
+  color: black;
+}
