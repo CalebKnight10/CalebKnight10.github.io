@@ -6,6 +6,14 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+          document.getElementById("mainHeader").onclick = function() {
+            this.style.color = 'orange'
+          }
+        })
+        </script>
+        
     <title>Caleb Knight</title>
 
     <!-- Bootstrap core CSS -->
@@ -54,7 +62,7 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div class="container">
-          <h1 onclick="this.style.color='orange';" class="display-3">Caleb Knight</h1>
+          <h1 id="mainHeader" class="display-3">Caleb Knight</h1>
           <p>This is my online Profile. It's all about me;)</p>
           <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
         </div>
