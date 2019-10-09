@@ -55,16 +55,14 @@ a {
     color: #009ce0; }
 
 #main {
-  padding: 50px; }
+  padding: 100px; }
 
 body{
-      background-color: Red;
+      background-color: rgb(180, 176, 167);
 }
 h1{
-    font-size: 22;
-    color: blue;
+    color: black;
     }
 p{
-  font-size: 22;
   color: black;
 }
