@@ -19,7 +19,7 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 body {
-  line-height: 5; }
+  line-height: 2.5; }
 
 ol, ul {
   list-style: none; }
@@ -55,7 +55,7 @@ a {
     color: #009ce0; }
 
 #main {
-  padding: 100px; }
+  padding: 50px; }
 
 body{
       background-color: rgb(180, 176, 167);
