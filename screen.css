@@ -40,7 +40,7 @@ q, blockquote {
     content: none; }
 
 a img {
-  border: none; }
+  border: black; }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
@@ -65,4 +65,11 @@ h1{
     }
 p{
   color: black;
+}
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
 }
