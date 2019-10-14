@@ -73,3 +73,12 @@ p{
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 26%;
+}
+.jumbotron {
+  background-image:"file:///Users/kthing10/Desktop/CS%20160%20Github/CalebKnight10.github.io/IMG_3499.JPG"
+}
