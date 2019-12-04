@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   })
 
-  $( document ).ready(function() {
+  $(document).ready(function() {
     $( "#fade" ).click(function() {
       $( "#fade" ).fadeOut( "slow", function() {
       });
