@@ -64,11 +64,13 @@ h1{
     color: rgb(1, 0, 10);
     font-size: 1.6em;
     text-align: center;
+    font-weight: bold;
     }
 
 h2 {color: rgb(0, 12, 9);
   font-size: 2em;
   text-align: center;
+  font-weight:bold;
 
 }
 h3 {color: rgb(0, 100, 89);
@@ -77,6 +79,11 @@ h3 {color: rgb(0, 100, 89);
 h4 {font-weight: bold;
   font-size: 1.5em;
 
+}
+h5 {
+  text-align: center;
+  color: rgb(1, 0, 10);
+  font-size: 1.5em;
 }
 p{
   color: rgb(2, 7, 0);
