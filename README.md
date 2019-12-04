@@ -1,1 +1,2 @@
 CalebKnight10.github.io
+This Portfolio is part of a project for my CS 160 class.  On this portfolio I demonstrate basic skills using jQuery, JavaScript, JSON, HTML, CSS, and more.  Through using these skills I have created a webpage that has my project on it, links to my resume, handshake, stack overflow, and github, and have personally designed and editted this page.  I have with it a list of repo's and committ history that explain my steps and frustrations into building this site. 
